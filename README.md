@@ -1,7 +1,5 @@
 <h1 align="center">SOCIAL-BOT</h1>
-<p align="center">
-    <img width="200" src="https://raw.githubusercontent.com/anbuinfosec/anbuinfosec/main/banner.png" alt="Banner anbuinfosec">
-</p>
+
 <p align="center">A simple python social media video downloader bot.</p>
 
 ### Available downloaders
@@ -15,7 +13,7 @@
 ### Install
 1. Clone this repo.
 ````
-git clone https://github.com/anbuinfosec/social-bot && cp -r social-bot/. . && rm -rf social-bot
+git clone https://github.com/dawnsee0823/social_Bot && cp -r social-bot/. . && rm -rf social-bot
 ````
 2. Install all requirements.
 ````
@@ -39,15 +37,11 @@ python bot.py
 ---
 ### Run on replit
 
-[![Run on Repl.it](https://repl.it/badge/github/Th30neAnd0nly/TrackDown)](https://repl.it/github/anbuinfosec/social-bot)
-
 **Go to secret and edit telegram bot key and apikey. Then run project.**
 
 ---
 
 ## Tutorial
-
-[![Watch the tutorial](https://img.youtube.com/vi/O8oa3bwEF-o/maxresdefault.jpg)](https://youtu.be/O8oa3bwEF-o?si=kCD98KBpCcfCZxlJ)
 
 
 
