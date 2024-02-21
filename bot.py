@@ -18,6 +18,7 @@ from app import *
 from telebot import types
 from time import sleep
 
+
 load_dotenv()
 bot_token = os.getenv("TELEGRAM_BOT_TOKEN")
 logging.basicConfig(level=logging.INFO)
@@ -29,6 +30,10 @@ def laodInfo():
   print(f" * TOKEN LOADED : {bot_token}")
   print(f' *  APIKEY LOADED : {os.getenv("API_KEY")}')
 
+
+bot_token = os.getenv("TELEGRAM_BOT_TOKEN")
+logging.basicConfig(level=logging.INFO)
+bot = telebot.TeleBot(bot_token)
 
 def start_flask():
   clear()
